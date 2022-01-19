@@ -15,7 +15,7 @@ namespace TASK_5
                 
                 bool res = num % i!= 0;//переменная ложь
                 
-
+ 
                     if (!res)//если истина
                     {
                         Console.WriteLine("Не является простым числом!");//вывод на экран
